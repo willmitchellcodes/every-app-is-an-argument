@@ -27,17 +27,6 @@ Every app makes a case for why you should use it: it's free, your friends are on
 
 Three appeals come from Aristotle; *kairos* comes from the sophists. Pointing them at software builds on Bogost's procedural rhetoric and on lateral reading (Wineburg & McGrew).
 
-## How the session went
-
-| Time | Part | Slides |
-|---|---|---|
-| 0:00–9:30 | **Opening.** Smart TVs that watch what you watch; software keeps public records; who I am; the techno-queer stakes (Grindr, location data, AI that misreads queer people); the thesis | 1–16 |
-| 9:30–17:15 | **Part 1: the framework.** One story per appeal, why open source matters, then the TV examined four ways | 17–28 |
-| 17:15–40:45 | **Part 2: AI and your apps.** What the AI productivity data actually says, *activity: audit your apps*, open source swaps, a live local-model demo (IBM Granite 4.2 with Wi-Fi off) | 29–53 |
-| 40:45–60:00 | **Part 3: open source projects and OSS Fidelity.** *Activity: which would you install?*, seven checks before installing, where code is hosted, *activity: predict the grade*, auditing the auditor, one change to make | 54–70 |
-
-Slides 71–95 are backup.
-
 ## Try it yourself
 
 1. **Audit your apps.** List five apps you use every day. For each one, ask *who controls this data?* (ethos) and *could I leave if it changes?* (kairos). Star the one you'd most like to leave.
