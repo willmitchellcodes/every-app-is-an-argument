@@ -1,0 +1,5 @@
+Host,Public code used for AI training?,Your AI-assistant chats,Who runs it
+GitHub,"Allowed: terms grant GitHub and its affiliates, including Microsoft, this right; the opt-out doesn't cover public repos","Used for training unless you opt out (since Apr 24, 2026)",Microsoft subsidiary
+Codeberg,No: pledges never to train on users' code; blocks AI crawlers,n/a,German non-profit (Codeberg e.V.)
+SourceHut,No: terms forbid collecting data to train machine-learning models,n/a,Small paid company (alpha)
+GitLab.com,Not addressed in its AI transparency page,Duo inputs and outputs not used to train,Public company (open core)

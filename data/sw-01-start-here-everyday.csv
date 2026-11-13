@@ -1,0 +1,9 @@
+Instead of,Try,License,Runs on,Honest tradeoff
+ChatGPT app,Jan,Apache-2.0,"Windows, Mac, Linux",Local models need decent RAM; not on Intel Macs
+ChatGPT on your phone,PocketPal AI,MIT,"iPhone, Android",Small models are much weaker
+"WhatsApp, iMessage",Signal,AGPL-3.0,Phones + desktop,Still needs a phone number to sign up
+(no phone number),SimpleX Chat,AGPL-3.0,Phones + desktop,Your friends probably aren't on it yet
+Chrome,Firefox,MPL-2.0,Everywhere,Telemetry is on until you switch it off
+"LastPass, browser passwords",Bitwarden,GPL-3.0 (apps),Everywhere,Needs an account; you trust its cloud
+Microsoft Office,LibreOffice,MPL-2.0,"Windows, Mac, Linux",Complex .docx files can shift; export PDF
+"Notion, OneNote",Joplin,AGPL-3.0,Everywhere,Plainer editor; you set up sync yourself

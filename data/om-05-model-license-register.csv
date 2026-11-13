@@ -1,0 +1,9 @@
+Family (latest open release),License,Strings attached,Data and code?
+Meta Llama 4 (Apr 2025),Llama 4 Community License,"700M-user cap; ""Built with Llama""; EU limit on multimodal models",No
+Meta Muse Spark Open (Oct 2026),Muse Model License,Deal needed for >$20M-revenue API resellers; attribution,No
+Google Gemma 4 (Apr 2026),Apache-2.0,None beyond Apache (Gemma 3 keeps Gemma Terms),No
+Alibaba Qwen3 / Qwen3.8 (2025–26),Apache-2.0; largest 3.8 models custom,Big Qwen3.8 models: revenue and user thresholds,No
+"Mistral Small 4, Large 3",Apache-2.0,"Medium 3.5 is ""Modified MIT"" with a $20M revenue cap",No
+DeepSeek V4 / R1,MIT,None,No
+OpenAI gpt-oss (Aug 2025),Apache-2.0 + short usage policy,Comply with applicable law,No
+Ai2 Olmo 3 / 3.1 (2025),Apache-2.0,None,"Yes: data, code, checkpoints"

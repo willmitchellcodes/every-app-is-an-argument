@@ -1,0 +1,7 @@
+Tool,What it is,Why it's not open source
+LM Studio,Local AI app,Proprietary terms call its source code a trade secret
+Msty,Local AI app,"Proprietary; free tier for personal, non-commercial use only"
+Obsidian,Notes app,"Closed source, though free for any use since Feb 2025"
+Anytype,Notion-style notes,"""Source-available"" license limits commercial use"
+Open WebUI (v0.6.6+),Self-hosted AI interface,Custom license adds a branding clause
+"Llama, Muse Spark Open",AI model weights,Custom licenses with user caps and conditions

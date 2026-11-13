@@ -1,0 +1,9 @@
+Instead of,Try,License,Runs on,Honest tradeoff
+"Procreate, Photoshop painting",Krita,GPL-3.0,"Win, Mac, Linux; Android tablets (beta)",No iPad version
+Photoshop photo editing,GIMP 3.2,GPL-3.0+,"Windows, Mac, Linux",Different workflow; skip App Store copies
+Illustrator,Inkscape,GPL-3.0+ (binaries),"Windows, Mac, Linux",Slower on very complex files; weak CMYK
+"Premiere, CapCut",Kdenlive,GPL-3.0,"Windows, Mac, Linux",Fewer pro color and audio tools
+"Maya, Cinema 4D",Blender,GPL-3.0+ (binaries),"Win, Linux, Apple Silicon Macs",Steep learning curve
+Figma,Penpot,MPL-2.0,Web browser,Fewer plugins; cloud needs an account
+Audition,Audacity 4,GPL-3.0,"Windows, Mac, Linux",New interface; older tutorials won't match
+GitHub (for open projects),Codeberg,Runs Forgejo (GPL-3.0+),Web,Open source projects only

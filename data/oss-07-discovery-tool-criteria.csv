@@ -1,0 +1,8 @@
+Your criterion,Established measure to reuse,Caution
+"Total commits, active developers","CHAOSS Contributor Absence Factor; OpenSSF Scorecard ""Contributors""","Commit counts reward churn; count people, not commits"
+License,"Scorecard ""License""; SPDX identifier in the LICENSE file","Check subfolders and SDKs, not just the README"
+Releases and merged issues over time,"Scorecard ""Maintained""; CHAOSS Release Frequency, Change Request Closure Ratio, Time to First Response","A quiet, mature tool isn't abandoned"
+Organization backing,"Foundation membership (e.g. Linux Foundation, Codeberg e.V.)",Backing can change; see relicensing history
+Hidden proprietary parts,"License scan of dependencies (deps.dev, ecosyste.ms)",Cloud features may sit outside the repo
+AI-generated commits and issue fixes,No standard yet; would need a published method,Disclosure varies; avoid guessing from style
+"AI privacy (training, retention, human access…)","The seven privacy questions, scored from each app's own policy",Policies change; record the date checked

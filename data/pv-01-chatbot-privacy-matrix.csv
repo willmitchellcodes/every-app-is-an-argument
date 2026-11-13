@@ -1,0 +1,6 @@
+App,Trains on chats by default?,History off / temporary,Humans may review?,Chats used for ads?
+Gemini,"Yes, unless you turn off Keep Activity",Kept up to 72 hours,Yes; reviewed chats kept up to 3 years,No (Google says it would announce a change)
+ChatGPT,"Yes, unless you turn off ""Improve the model""",Temporary chats kept up to 30 days,"Yes, for safety","Yes on Free and Go plans, can use past chats if personalization is on"
+Claude,"You choose; if on, kept up to 5 years",Incognito: not used for training; 30 days,Flagged chats kept up to 2 years for safety,No (Feb 2026 pledge)
+Copilot (new app),Not used to train foundation models (wording is narrow),Retention not stated,Not stated,"Yes, personalized ads can use chat history"
+Meta AI,Yes,Not published,Not published,"Yes since Dec 16, 2025; excludes 7 sensitive topics"

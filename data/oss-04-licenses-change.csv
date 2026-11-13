@@ -1,0 +1,9 @@
+date,project,change,response
+Jan 2021,Elasticsearch,Apache-2.0 → SSPL / Elastic License,OpenSearch fork
+Aug 2023,Terraform,MPL-2.0 → Business Source License,OpenTofu fork (Linux Foundation)
+Mar 2024,Redis,BSD-3 → RSALv2 / SSPL,Valkey fork (Linux Foundation)
+Aug 2024,Elasticsearch,adds AGPL-3.0 as an option,back to an OSI license
+Oct 2024,Bitwarden,client pulled in a proprietary SDK,users flagged it; fixed in about a week
+Apr 2025,Open WebUI,BSD-3 → custom license with branding clause,no longer OSI open source
+May 2025,Redis 8,adds AGPL-3.0 as an option,back to an OSI license
+May 2025,Jan,AGPL-3.0 → Apache-2.0,became more permissive

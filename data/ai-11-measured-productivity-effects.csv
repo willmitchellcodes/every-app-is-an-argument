@@ -1,0 +1,13 @@
+study,outcome_group,effect_pct_positive_is_better,ci_low,ci_high,note
+Noy & Zhang 2023 · writing tasks · n=453,Speed,40,,,40% less time
+"Dell'Acqua et al. · consultants, inside frontier · n=758",Speed,25.1,,,25% faster
+"METR · experienced OSS devs, early 2025 · n=16",Speed,-19,-39,-2,19% slower
+"METR · returning devs, late 2025 · n=10",Speed,18,-9,38,18% faster (inconclusive)
+"Brynjolfsson et al. · support agents · n=5,172",Output,15,,,+15% issues/hour
+"Cui et al. · developers, 3 firms · n=4,867",Output,26.1,5.9,46.3,+26% pull requests
+Dell'Acqua et al. · inside frontier · n=758,Output,12.2,,,+12% tasks done
+Noy & Zhang 2023 · grader-rated quality,Quality,18,,,+18% quality
+Dell'Acqua et al. · outside frontier task,Quality,-19,,,19% less likely correct
+Cui et al. · build success rate,Quality,-5.5,-12.6,1.6,−5.5% (not significant)
+Bastani et al. 2025 · HS math exam after AI practice,Learning,-17,,,−17% exam score
+Shen & Tamkin 2026 · learning a new library · n=52,Learning,-25.4,,,quiz 50% vs 67%
